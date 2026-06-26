@@ -2,4 +2,7 @@
 2. check the (git status) ,  its shows untracked files .
 3. (use git add .) command
 4. Now commit the file -(git commit -m " test2 file is created)
-5.
+5.check git branch -M main  
+   if you want add file on onther branch change that name
+6. before check now local folder have last git commit ,if not git pull --rebase origin main
+7.  
