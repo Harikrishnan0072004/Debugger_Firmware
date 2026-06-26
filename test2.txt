@@ -1,0 +1,3 @@
+1. create a file - test2.txt  that show symbol - U -means UNTRACKED FILES. 
+2. check the (git status) ,  its shows untracked files .
+3. (use git add .) command
