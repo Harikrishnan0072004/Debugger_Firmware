@@ -5,4 +5,4 @@
 5.check git branch -M main  
    if you want add file on onther branch change that name
 6. before check now local folder have last git commit ,if not git pull --rebase origin main
-7.  
+7.then push  -  git push -u origin main 
