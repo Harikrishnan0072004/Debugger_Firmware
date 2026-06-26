@@ -6,3 +6,12 @@
    if you want add file on onther branch change that name
 6. before check now local folder have last git commit ,if not git pull --rebase origin main
 7.then push  -  git push -u origin main 
+
+
+create a branch -(git branch friend_work) 
+copy the main branch to  new branch - git push -u origin frined_work  
+
+
+now work in new_branch 
+  git checkout -b friend_work
+ 
