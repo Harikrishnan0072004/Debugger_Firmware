@@ -1,0 +1,5 @@
+D:/project_1/gp_pio1/build/pioasm-install/pioasm/pioasm.exe
+D:/project_1/gp_pio1/build/pioasm-install/pioasm/pioasmTargets.cmake
+D:/project_1/gp_pio1/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+D:/project_1/gp_pio1/build/pioasm-install/pioasm/pioasmConfig.cmake
+D:/project_1/gp_pio1/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
